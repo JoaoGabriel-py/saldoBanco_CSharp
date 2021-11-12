@@ -1,0 +1,15 @@
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\saldoBanco\saldoBanco\obj\Debug\net6.0\saldoBanco.csproj.AssemblyReference.cache
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\saldoBanco\saldoBanco\obj\Debug\net6.0\saldoBanco.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\saldoBanco\saldoBanco\obj\Debug\net6.0\saldoBanco.AssemblyInfoInputs.cache
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\saldoBanco\saldoBanco\obj\Debug\net6.0\saldoBanco.AssemblyInfo.cs
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\saldoBanco\saldoBanco\obj\Debug\net6.0\saldoBanco.csproj.CoreCompileInputs.cache
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\saldoBanco\saldoBanco\bin\Debug\net6.0\saldoBanco.exe
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\saldoBanco\saldoBanco\bin\Debug\net6.0\saldoBanco.deps.json
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\saldoBanco\saldoBanco\bin\Debug\net6.0\saldoBanco.runtimeconfig.json
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\saldoBanco\saldoBanco\bin\Debug\net6.0\saldoBanco.dll
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\saldoBanco\saldoBanco\bin\Debug\net6.0\ref\saldoBanco.dll
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\saldoBanco\saldoBanco\bin\Debug\net6.0\saldoBanco.pdb
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\saldoBanco\saldoBanco\obj\Debug\net6.0\saldoBanco.dll
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\saldoBanco\saldoBanco\obj\Debug\net6.0\ref\saldoBanco.dll
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\saldoBanco\saldoBanco\obj\Debug\net6.0\saldoBanco.pdb
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\saldoBanco\saldoBanco\obj\Debug\net6.0\saldoBanco.genruntimeconfig.cache
